@@ -23,14 +23,14 @@ var SLIDE_CONFIG = {
   // Author information
   presenters: [{
     name: 'Charles Brown-Roberts',
-    company: 'Web Accessibility Specialist, Sacramento State',
+    company: 'Web Accessibility Specialist',
     //gplus: 'http://plus.google.com/1234567890',
     twitter: '@californiavol',
     www: 'http://www2.csus.edu/video/admin/index/courselist',
     github: 'http://github.com/californiavol'
   }, {
     name: 'Tuffer Mayeda',
-    company: 'Network Media Specialist, Sacramento State',
+    company: 'Network Media Specialist',
     //gplus: 'http://plus.google.com/1234567890',
     //twitter: '@yourhandle',
     //www: 'http://www.you.com',
