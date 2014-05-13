@@ -1,8 +1,8 @@
 var SLIDE_CONFIG = {
   // Slide settings
   settings: {
-    title: 'Sacramento State <br>Streaming Course Videos',
-    subtitle: 'Adobe Media Server',
+    title: 'Sac State <br>Streaming Video',
+    subtitle: 'Video Management System',
     //eventInfo: {
     //  title: 'Google I/O',
     //  date: '6/x/2013'
